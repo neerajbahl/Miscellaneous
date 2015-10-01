@@ -1,0 +1,7 @@
+Commands to compile and run C++ code from command prompt (Provided you have gcc installed and added to environment variables of your computer):
+
+Compile:
+g++ -o <output_file> <filename>.cpp
+
+Run:
+output_file.exe
