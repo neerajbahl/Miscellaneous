@@ -54,7 +54,7 @@ int TestSquareBrackets::operator [](int index) {
 int main ()
 {
     TestSquareBrackets bracketObject;
-    cout << "Printing the membersof the array using the oberloaded [] operator based on the index" << endl;
+    cout << "Printing the members of the array using the overloaded [] operator based on the index" << endl;
     for (int i = 0; i < bracketObject.getsize(); i ++)
     {
             cout << bracketObject[i] << endl;
